@@ -2,7 +2,8 @@
 
 My journey learning Python from scratch for AI & Robotics.
 
-## 🚀 My 50-Project Roadmap (1/50 Completed)
+## 🚀 My 50-Project Roadmap (3/50 Completed)
 
 [x] 01. Even or Odd Checker                                                                                                                                           
-[x] 02. BMI Calculator
+[x] 02. BMI Calculator                                                                                                                                                
+[x] 03. Temperature Converter
