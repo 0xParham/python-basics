@@ -7,3 +7,4 @@ My journey learning Python from scratch for AI & Robotics.
 [x] 01. Even or Odd Checker                                                                                                                                           
 [x] 02. BMI Calculator                                                                                                                                                
 [x] 03. Temperature Converter
+[x] 04. simple calculator
